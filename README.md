@@ -1,6 +1,6 @@
 # Rebuilding Rails
 
-
+* [0. Rebuilding Rails for Yourself](./00/)
 
 ## Ref
 
