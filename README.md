@@ -3,6 +3,7 @@
 * [0. Rebuilding Rails for Yourself](./00/)
 * [1. Zero to “It Works!”](./01/)
 * [2. Your First Controller](./02/)
+* [3. Rails Automatic Loading](./03/)
 
 ## Rack
 
