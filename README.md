@@ -5,6 +5,7 @@
 * [2. Your First Controller](./02/)
 * [3. Rails Automatic Loading](./03/)
 * [4. Rendering Views](./04/)
+* [5. Basic Models](./05/)
 
 ## Rack
 
