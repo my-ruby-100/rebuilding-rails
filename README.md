@@ -8,6 +8,7 @@
 * [5. Basic Models](./05/)
 * [6. Request, Response](./06/)
 * [7. The Littlest ORM](./07/)
+* [8. Rack Middleware](./08/)
 
 ## Rack
 
