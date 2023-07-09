@@ -6,7 +6,8 @@
 * [3. Rails Automatic Loading](./03/)
 * [4. Rendering Views](./04/)
 * [5. Basic Models](./05/)
-* [6. Request, Response](./06)
+* [6. Request, Response](./06/)
+* [7. The Littlest ORM](./07/)
 
 ## Rack
 
