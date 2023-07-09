@@ -2,6 +2,7 @@
 
 * [0. Rebuilding Rails for Yourself](./00/)
 * [1. Zero to “It Works!”](./01/)
+* [2. Your First Controller](./02/)
 
 ## Rack
 
