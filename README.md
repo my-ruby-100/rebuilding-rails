@@ -9,11 +9,13 @@
 * [6. Request, Response](./06/)
 * [7. The Littlest ORM](./07/)
 * [8. Rack Middleware](./08/)
+* [9. Real Routing](./09/)
 
 ## Rack
 
 * <https://github.com/rack/rack>
 * <https://github.com/rack/rack-test>
+
 
 ## Ref
 
