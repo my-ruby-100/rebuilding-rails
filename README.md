@@ -11,6 +11,13 @@
 * [8. Rack Middleware](./08/)
 * [9. Real Routing](./09/)
 
+
+---
+
+* <https://github.com/rack/rackup/blob/main/lib/rackup/server.rb#L341>
+* <https://github.com/rack/rackup/blob/main/lib/rackup/server.rb#L354>
+* <https://github.com/rack/rack/blob/main/lib/rack/builder.rb#L65>
+
 ## Rack
 
 * <https://github.com/rack/rack>
