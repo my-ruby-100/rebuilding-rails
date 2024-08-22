@@ -2,7 +2,7 @@
 
 |本期版本|上期版本
 |:---:|:---:
-`Sun Jul  9 10:17:38 CST 2023` | 
+`Thu Aug 22 22:38:54 CST 2024` | `Sun Jul  9 10:17:38 CST 2023`
 
 ## In the Rough
 
@@ -13,6 +13,19 @@ gem build rulers.gemspec
 
 * newer versions of Bundler use a different method call: `add_dependency` instead of `add_runtime_dependency`
 
+
+
+```ruby
+run BestQuotes::Application.new
+```
+
+**Rails**
+
+* `ActiveSupport`
+* `ActiveModel`
+* `ActiveRecord`
+* `ActionPack`
+* `ActionMailer`
 
 ## Ref
 
