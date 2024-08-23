@@ -2,10 +2,21 @@
 
 |本期版本|上期版本
 |:---:|:---:
-`Sun Jul  9 11:15:28 CST 2023` |
+`Fri Aug 23 15:25:52 CST 2024` | `Sun Jul  9 11:15:28 CST 2023`
 
 
 ## Routing Around
+
+```ruby
+klass, act = get_controller_and_action(env)
+controller = klass.new(env)
+text = controller.send(act)
+```
+
+
+---
+
+`/favicon.ico`
 
 ```
 # http://mysite.com/people/create
