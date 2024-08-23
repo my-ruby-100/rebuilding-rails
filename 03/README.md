@@ -2,7 +2,7 @@
 
 |本期版本|上期版本
 |:---:|:---:
-`Sun Jul  9 15:43:20 CST 2023` |
+`Fri Aug 23 15:41:08 CST 2024` | `Sun Jul  9 15:43:20 CST 2023`
 
 ## Where’s My Constant?
 
